@@ -96,6 +96,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Options/Animals/Animals.unity
     guid: b0aa16539b31ca54cad282287bb448f9
   - enabled: 1
+    path: Assets/Scenes/ARPage/LionDetailPage.unity
+    guid: 3de534e0eef1bba49ba37a9a65533980
+  - enabled: 1
     path: Assets/Scenes/AR/Animals/Lion/LionAR.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
